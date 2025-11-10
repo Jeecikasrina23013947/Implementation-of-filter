@@ -32,8 +32,8 @@ Display the original, smoothed, and sharpened images side-by-side using matplotl
 </br> 
 
 ## Program
-### Developed By   : AHALYA S
-### Register Number: 212223230006
+### Developed By   : JEECIKASRINA M
+### Register Number: 212223100015
 </br>
 
 ### 1. Smoothing Filters
